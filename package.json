@@ -1,25 +1,7 @@
 {
-  "name": "task_node3",
-  "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-     "@hapi/joi": "^17.1.1",
     "bcryptjs": "^2.4.3",
-    "crypto-js": "^4.1.1",
-    "express": "^4.18.2",
-    "express-validator": "^7.0.1",
-    "joi": "^17.8.3",
-    "lodash": "^4.17.21",
-    "moment": "^2.29.4",
-    "mongodb": "^5.1.0",
-    "mongoose": "^6.9.3",
+    "jsonwebtoken": "^9.0.0",
     "validator": "^13.9.0"
   }
 }
